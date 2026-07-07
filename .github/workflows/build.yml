@@ -1,5 +1,3 @@
-
-```yaml
 name: Build CoreS3
 
 on:
@@ -27,4 +25,3 @@ jobs:
         with:
           name: xiaozhi_m5stack-core-s3
           path: build/merged-binary.bin
-```
